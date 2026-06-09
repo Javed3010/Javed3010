@@ -8,10 +8,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Science+Masters+Student+%40+ASU;Turning+raw+data+into+clean+dashboards;ML+%7C+NLP+%7C+Computer+Vision+Enthusiast;Python+%2B+SQL+%2B+Power+BI)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/Javed3010"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:makbara2@asu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://USERNAME.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=70a5fd" alt="Portfolio"/></a>
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=70a5fd&style=flat-square" alt="views"/>
+<a href="https://Javed3010.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=70a5fd" alt="Portfolio"/></a>
+<img src="https://komarev.com/ghpvc/?username=Javed3010&label=Profile%20Views&color=70a5fd&style=flat-square" alt="views"/>
 
 </div>
 
@@ -84,23 +84,23 @@ class DataScientist:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Javed3010&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed3010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="top languages"/>
 </div>
 
 <!-- ════════════════════ 7. STREAK STATS ════════════════════ -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=Javed3010&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="streak stats"/>
 </div>
 
 <!-- ════════════════════ 8. ACTIVITY GRAPH ════════════════════ -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javed3010&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph" width="100%"/>
 </div>
 
 <!-- ════════════════════ 9. TROPHY WALL ════════════════════ -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Javed3010&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies"/>
 </div>
 
 <!-- ════════════════════ 10. WORK EXPERIENCE ════════════════════ -->
